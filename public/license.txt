@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pekka - Clash Royale - Fanart
+* source:	https://sketchfab.com/3d-models/pekka-clash-royale-fanart-dd143cca7314467eb3a634e703227a84
+* author:	Matias Martin (https://sketchfab.com/matiasmartin1990)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pekka - Clash Royale - Fanart" (https://sketchfab.com/3d-models/pekka-clash-royale-fanart-dd143cca7314467eb3a634e703227a84) by Matias Martin (https://sketchfab.com/matiasmartin1990) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
